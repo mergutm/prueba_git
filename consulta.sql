@@ -1,1 +1,1 @@
-SELECT * from usuarios;
+SELECT * from usuarios_bonitos;
